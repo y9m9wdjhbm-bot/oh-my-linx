@@ -1,0 +1,3 @@
+# Preserve the original bytes of the versioned source snapshot.
+# SHA-256 verification must not depend on a user's core.autocrlf setting.
+/projects/LC.PlayerMarket.V96.API/** -text
