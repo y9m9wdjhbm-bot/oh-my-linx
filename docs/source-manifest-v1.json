@@ -1,0 +1,2280 @@
+{
+    "SchemaVersion":  1,
+    "Product":  "LC PlayerMarket V96 API",
+    "Version":  "96.0.1",
+    "Source":  "LC_PlayerMarket_v96_API/source-v4",
+    "SourceFileCount":  454,
+    "OriginalSourceBytesUnchanged":  true,
+    "Files":  [
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ActorCapacityContractVerification.cs",
+                      "Bytes":  30905,
+                      "SHA256":  "BC2A71317BE9EAE2412F91767F629BE28A67D3378918FC683D8BF88202DCFB5A"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/app.manifest",
+                      "Bytes":  617,
+                      "SHA256":  "5775B841B23EB496982D5A99DE1123BACF78591E252A08A0520AC532BBD4AA8B"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/BackendDiagnosticRecoverySelfTest.cs",
+                      "Bytes":  6592,
+                      "SHA256":  "EE4C1FB8C3B38DA8EDFAF9BAD2437F182FF551EF693C85FF5759D0D35E3E5E89"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/BackendPageWaitSelfTest.cs",
+                      "Bytes":  5921,
+                      "SHA256":  "56FE3FDFE8E5E5C5BBF4DAD6485BA75CD5347D8C5F69F979E7CD3BA3A88134FE"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/BackgroundShopDeferralSelfTest.cs",
+                      "Bytes":  17716,
+                      "SHA256":  "4ABE72468CB79D33CD085706723F352B793E7425D4A1A506044F365A52AE2AA4"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/BrokerInitializationFailureSelfTest.cs",
+                      "Bytes":  2488,
+                      "SHA256":  "9B5BC311CE5E9557F715F2DE40116513C476EBD542C4AD768FEA8A043867169B"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/BrokerPendingVerification.cs",
+                      "Bytes":  39193,
+                      "SHA256":  "52C09E70785DC193913142645A85E692E0C7D907D0C7EC77E9FCF0AC3DC4CEE2"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/CaptureTerminalVerification.cs",
+                      "Bytes":  716,
+                      "SHA256":  "0D4AF30556A4C3AF7AF6CE44AEBFA9072B4707D43F86EA3CF4FC551480982F18"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ClosedShopCacheVerification.cs",
+                      "Bytes":  2544,
+                      "SHA256":  "A17C4F35700EE7AD4758BCBC5F58BC9D0D89A5FDDB8F53EC45FBB60780575097"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ContinuousBatchReadinessVerification.cs",
+                      "Bytes":  11255,
+                      "SHA256":  "49A70E145EAA49A056EA5C68CB9D778464F0F67A1D82F665B3A3DD0D2DE3F415"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/CurrentItemKindRegressionSelfTest.cs",
+                      "Bytes":  14217,
+                      "SHA256":  "AF4FE29CF97000D77B9519BD0A422C2BB65B2D72B207AE83F6CE32F0B4B3C9BC"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/CurrentTemplateReadOnlyVerification.cs",
+                      "Bytes":  5492,
+                      "SHA256":  "D8F8D581B1960BE9A09D691007D1C5BD6BFE4794DCC511B65E9ED703F1C102AE"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/DispatchTimeoutVerification.cs",
+                      "Bytes":  6978,
+                      "SHA256":  "F06E2B22CC1F3A0AC72728DE3543087F35D027FD59F29F92E9890740324D92CC"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ExcelExporter.cs",
+                      "Bytes":  18234,
+                      "SHA256":  "7D2B5070EE64A95CB78E3852D5E1A0EA51879BCBF9E02F278734F6C04E052489"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ExcelExportSelfTest.cs",
+                      "Bytes":  18944,
+                      "SHA256":  "C0F0DD4557453736B0D2F33EAEBAE84E70AB8CF5E673CF35AC08F4C034360C7B"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/FailurePresentationSelfTest.cs",
+                      "Bytes":  8634,
+                      "SHA256":  "37D100D0F6896AAB5FAC4DF2911BCABBA45B677B47C782DCE63BA4270019DD4D"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/FastStartupVerification.cs",
+                      "Bytes":  2305,
+                      "SHA256":  "CC6757231C9CC93196EBCAA252F59AF8D834C8F124D1EC78E77C0E45FB7DE147"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ForceDispatchSelfTest.cs",
+                      "Bytes":  14706,
+                      "SHA256":  "71F242461A828C3ACA3BB48555ED651512750F7E2131395AA790FCEA215214E3"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ForceDispatchUiSelfTest.cs",
+                      "Bytes":  24962,
+                      "SHA256":  "121536A81FDF699E3255585B0C456360ECBB3C76B7BC84CE37B1817ACDA916E4"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ForceDispatchVerification.cs",
+                      "Bytes":  718,
+                      "SHA256":  "EA8DB61FB6FAB2B29F3DB0CE4F031371E063B73D9B5C04BB2EA9054D0015690F"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ForcePatrolSelfTest.cs",
+                      "Bytes":  14865,
+                      "SHA256":  "52C6210FD25965494A6FF7167F75267346BFBBF4D0D903B281D31CF5AA21AFE3"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/FrozenShoppingDispatchSelfTest.cs",
+                      "Bytes":  12635,
+                      "SHA256":  "BB83F5F4057B90E197AA52C983B00C9C751E4349016F33210904C9C7852271E6"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/HistoryCacheAudit.cs",
+                      "Bytes":  2036,
+                      "SHA256":  "B181A743FC17743AD9B78A5B4A25D498DDAE486F6C7CA3AB530BF70E00FF8375"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/HistoryReadCache.cs",
+                      "Bytes":  19049,
+                      "SHA256":  "E6216C76D2F968F99C072C8E563CFD4231253B72F6C7479D2C97433B95A2E268"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/HistoryReadCacheSelfTest.cs",
+                      "Bytes":  9799,
+                      "SHA256":  "E47F70754AA5E993C79463DF784BD96F7CB357C91A54F0259D1A925F74EA7B6A"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/InstalledPreflightVerification.cs",
+                      "Bytes":  23864,
+                      "SHA256":  "839328BE675CCB60C988D990C825B8024E8A9595E28DBEECBF3BF57209EA5788"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ItemBuildCertificateVerification.cs",
+                      "Bytes":  13670,
+                      "SHA256":  "2D7CCEB4E5A0A1F519B3E7B416239F23467361CB3BB2471E8AB549E74BC3E6F4"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ItemEvidenceConsumerVerification.cs",
+                      "Bytes":  15010,
+                      "SHA256":  "65B012153042071ACE38FE5B877A93649AEC49240422FD402A14EB179C31B856"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ItemFilterPanel.cs",
+                      "Bytes":  5825,
+                      "SHA256":  "4C7297C07BFAB8CA11FF16CF090AE57E20BFD08354D74C09918D206D8FB8ED03"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ItemKind38A7CodeProofVerification.cs",
+                      "Bytes":  10294,
+                      "SHA256":  "F4676CD33B8C55759D77A1FB25D40E11F635BADB1336CBC6F2EE2822CF0C72E8"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ItemKind38A7Verification.cs",
+                      "Bytes":  12980,
+                      "SHA256":  "708FE7EC78B03F09E9DB74958D02AF4BD89BE8EC0DCD01F9276DA38968D71D90"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/KindMappingSelfTest.cs",
+                      "Bytes":  1317,
+                      "SHA256":  "483B27550BA1E4249B46617CEDC66796C13B441E667A2546E89F0E609EEEE8A2"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/LatestListingsSelfTest.cs",
+                      "Bytes":  15161,
+                      "SHA256":  "10BA5C4DE2B838CC2364BEDDBFA8F96F5FFBEBF4B7A54C644A72938AA4672A69"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/LC.PlayerMarket.csproj",
+                      "Bytes":  2040,
+                      "SHA256":  "FFD7845D4758EA9E1709C1F8CE75A42DE32C3A540CB1AD93D2AE6DC5272C1EF3"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/LiveAutomaticModePlanSelfTest.cs",
+                      "Bytes":  1583,
+                      "SHA256":  "0F0F368183EF207BD7F3E2B529D8226106562E5E3B67CD577E5EB2D288E704D8"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/LiveAutomaticPageOutcomePolicy.cs",
+                      "Bytes":  1653,
+                      "SHA256":  "04D438E5A94DD27EDCF59A7697C98F499464FD0B8A5F5EA42647BD982DB7434B"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/LiveAutomaticVerification.cs",
+                      "Bytes":  53698,
+                      "SHA256":  "FE40B597835FED6910D38DC7162E5F8938D384C95DBCC7FD7A668B03CC4D2122"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/LiveContext.cs",
+                      "Bytes":  14827,
+                      "SHA256":  "4F452EAF2D11B8FC7457978EC1EED2C43D6D413ECC98AFCAC22F36802B13148F"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/LivePatrolStartupBridge.cs",
+                      "Bytes":  4029,
+                      "SHA256":  "5194BBF4BA7AF2DFE26B925160053D59001991373C8C897C3249C2129FEE2DBF"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/LivePatrolStartupBridgeSelfTest.cs",
+                      "Bytes":  11132,
+                      "SHA256":  "857D4975875FBEBFEF56AEB04ECC4C4C8CA85B21BC384758654733313EC7159D"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/LiveSpeedSamplePolicy.cs",
+                      "Bytes":  3574,
+                      "SHA256":  "E38C8B505A5DDA582B1518D77B955CAB6F70A7CA6D564B5A5AE0A794065D15B4"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/LiveStartupIdentityContext.cs",
+                      "Bytes":  1564,
+                      "SHA256":  "D7A8E1F59D4CE75BFA560818F9BE30F829B8614CA4C3D66963B6F8309E31E352"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/LiveStartupIdentityContextSelfTest.cs",
+                      "Bytes":  5351,
+                      "SHA256":  "C5EE9BDD43B37130FD697B7E2B70F29F3463867418D9A26D4D3B632B1BA092DB"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/LocalStore.cs",
+                      "Bytes":  17096,
+                      "SHA256":  "4ACA318C818BFB1F57DEC55CE27AD3A5ED3E63CA7E174F9A0162C07EBA241209"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/LockToolCoreSelfTest.cs",
+                      "Bytes":  8173,
+                      "SHA256":  "AE0441282BBEEE3B45C354A87F0FD6983BD016FBD49C2DEC784BF2A25E40D6AE"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/LogFixPresentationSelfTest.cs",
+                      "Bytes":  3097,
+                      "SHA256":  "BDF91926EDBBA424180E2C67194D51D72191B4F92D1D77FC7132B48707F4FA4A"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MainForm.cs",
+                      "Bytes":  90961,
+                      "SHA256":  "04679E973E7C2A12F5CDD037ABFE8D2E005B5F52261F710B46EB0F97B2AC5F82"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MainForm.DebugApiV1.cs",
+                      "Bytes":  2871,
+                      "SHA256":  "854469AF31115BCA7A25CE714BE665F9AD14D26DA64CA9C93C19B6FCB678C60D"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MainForm.HistoryRestore.cs",
+                      "Bytes":  3948,
+                      "SHA256":  "25AC81730F85E53D74FAB6C09A3BBB09DBD2983374471B45B8C921DD4EEA5699"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MainForm.ItemState.cs",
+                      "Bytes":  1860,
+                      "SHA256":  "4626AB49E6FA34FA1887B6388F54DB1EC3BAC6833DFE849B432862389549A00D"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MainForm.Layout.cs",
+                      "Bytes":  856,
+                      "SHA256":  "7446FCB93192C40981B6914F989562A62261B6F39A6BCEB816EA2DF772B0946A"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MainForm.ListingsPage.cs",
+                      "Bytes":  554,
+                      "SHA256":  "F108793BCFBB850CCF2C7237574668EAB5814B312870E314F4E434DDFF01E0C9"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MainForm.Minimap.cs",
+                      "Bytes":  2331,
+                      "SHA256":  "8B15ACAB1831216A01DB1DED710AC54B29BFE4AFB886438FAACECF6819797A73"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MainForm.NativeReadiness.cs",
+                      "Bytes":  10123,
+                      "SHA256":  "37F3BBDB74656D7C9BD8F10EF15D93F9450EF08AF15D32C0165F2BB054234193"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MainForm.Patrol.cs",
+                      "Bytes":  18316,
+                      "SHA256":  "3BD62186D313BBEF8FEA4D5AF876A04598BC6ECAEFB7A6040C5DA522553685C8"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MainForm.PatrolStart.cs",
+                      "Bytes":  1869,
+                      "SHA256":  "F62B18A6523937F0969292F51718B07F0B5F03DF2041CA4FCFA230AC850BC232"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MainForm.ResetSearch.cs",
+                      "Bytes":  10220,
+                      "SHA256":  "702715E2BE65F5DC59519D84E66EA2CE76D86ED6DEF64E29324FCB5DC11876C3"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MainForm.SearchHistory.cs",
+                      "Bytes":  2327,
+                      "SHA256":  "EB9634AFB02DEF78365F435AEEEE1CD56F84998770326A6A0A2FACFCE3B009E6"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MainForm.TemplateImport.cs",
+                      "Bytes":  1541,
+                      "SHA256":  "A1514A2B7DC1F4D6314A1B4EFCE739B71ABB8ACC7819DF576C131F4175E1FDB8"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MainFormLayoutSelfTest.cs",
+                      "Bytes":  37529,
+                      "SHA256":  "800175BCD030138BC2ADC0E37327CA57DFF2CF95F641FD65F4F3F739B3E6F14A"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MainFormResetSearchSelfTest.cs",
+                      "Bytes":  24638,
+                      "SHA256":  "41AF2B896B7B7FA0CDE208E4B7BC36CD91A8D164F9D769BC84D449A919BEFE87"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ManagedPageOptimizationVerification.cs",
+                      "Bytes":  17401,
+                      "SHA256":  "2AE2664C6AA645E91534EF6893F3F457F1D423C6E4FD6F46B1E6C0064145F1BE"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ManualNearbyContext.cs",
+                      "Bytes":  7484,
+                      "SHA256":  "E633B6DD4A0049E74AD143F662A66672DF486F555A3371141312E261B4C99B72"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ManualTargetsSelfTest.cs",
+                      "Bytes":  14418,
+                      "SHA256":  "BB86F6AF22B61A89014D969FDB078BB4F3F60088DC642C760C64A5F1EDD33F95"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MarketDataRootAudit.cs",
+                      "Bytes":  1579,
+                      "SHA256":  "BD6FFFEDA206CA425422EB8256F0D9A4DBCBF9E3895352152084D8EC78A7832D"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MarketDebugApiV1.cs",
+                      "Bytes":  8830,
+                      "SHA256":  "87BB517E5DDB2302BC20573F6942EE69E42C2BE6E15D0BEC62FECA2D460D1D2E"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MarketFailurePresentation.cs",
+                      "Bytes":  10196,
+                      "SHA256":  "77648995F4A4EC97EE74A7E2063BA3ECFC932ACCF8D2C975364E6E8A28298B1E"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MarketItemStatePresentation.cs",
+                      "Bytes":  9964,
+                      "SHA256":  "3D7A1684956C463241984BC1C703582E12C0228E2921B35A87ED0AF8385E3F1B"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MarketItemStateSelfTest.cs",
+                      "Bytes":  12190,
+                      "SHA256":  "DF1EA174FF998EBCDFE358E01E1C6ABC89AC09F664458A4D68DAE3A4663D3464"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MarketListingIndex.cs",
+                      "Bytes":  2996,
+                      "SHA256":  "0A1065EC634B0588FD275E1AC4269CDE6B4199B66BC6E836BFE42E82667FB7C7"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MarketLockToolCommands.cs",
+                      "Bytes":  24435,
+                      "SHA256":  "40FCF48BCCA559C23B8990DE6164D9CCA128725FD7D88F5E1D346448FA7EFCE0"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MarketLogPaths.cs",
+                      "Bytes":  1974,
+                      "SHA256":  "EE7BF52651997266090C9BF78F7F2FFC49E5019791E645C1E41653051424ADB1"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MarketLogPathsSelfTest.cs",
+                      "Bytes":  7079,
+                      "SHA256":  "1BBD6AC325E704733A10266FD9F4A82CF60E6FD4C168919C77552A35F6249F25"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MarketMobileCatalogPublisher.cs",
+                      "Bytes":  10441,
+                      "SHA256":  "84EAB6C02F4BB5F1EE4AFC6B4A916A7454DBBF3FDC54B703603F6DECD22D0CAF"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MarketNativeCompatibility.cs",
+                      "Bytes":  1651,
+                      "SHA256":  "0551C9DE028BD6F12EDD5246B5A9D236673B43C36971CC3CE47D72AF0F867A19"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MarketOrdering.cs",
+                      "Bytes":  5376,
+                      "SHA256":  "AF07EA7986FD815CDD14A089C33CB59F318A7C1D63F3B8A1FB2BA3B2FE799B2C"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MarketPatrolTelemetryChainSelfTest.cs",
+                      "Bytes":  5007,
+                      "SHA256":  "35338DEC4B8CB184201E56CA9C142C62FAD45E8AF475B38DC37C21BB1F038A42"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MarketRecoveryV52Verification.cs",
+                      "Bytes":  1823,
+                      "SHA256":  "55E53720FA2AF14608327539D02281BA2B2EAE300DBCFDCD1E575F07BA78B102"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MarketRowView.cs",
+                      "Bytes":  2633,
+                      "SHA256":  "4A0D243D3DDE32E64BC642C15060F3A6B3F07B8AD83C0DBB902A18767108D0C5"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MarketSessionLifecycle.cs",
+                      "Bytes":  10744,
+                      "SHA256":  "209D429F19C9048B98C41A926CE367765A66E27FB12AF03641C8051AC867D777"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MarketSessionLifecycleSelfTest.cs",
+                      "Bytes":  24433,
+                      "SHA256":  "179614B4A81AE9B286131AF9FE610812CDF158CD608D134DA8C9E2DB6A45844F"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MarketSideGrid.cs",
+                      "Bytes":  7375,
+                      "SHA256":  "4D0B9720FC6301846011B3AE6A166BD489A0C6C75AC8DD7F0B7B9C163352BA00"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/MarketV54FeaturesVerification.cs",
+                      "Bytes":  1905,
+                      "SHA256":  "85BD29AEC84ED33C324D31E3CA3EA856209877550777244B8D2E58BA588A0959"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/NativeCertifiedColdV17Verification.cs",
+                      "Bytes":  63486,
+                      "SHA256":  "3236006861A20B85152284FB809536280E606B8A31383515C8C389ACA73A262F"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/NativeGuardRejectedReconcile.cs",
+                      "Bytes":  1474,
+                      "SHA256":  "99646472C26020C4BCB7457DC6276849FFD22DAD992ABE4CD557359D9D59ACCC"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/NativeGuardRejectedVerification.cs",
+                      "Bytes":  17374,
+                      "SHA256":  "B57D9711F63877CF163807A888B5FE9A65B86C8ADDC6DDF564290C1146A57827"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/NativeHelperFlightVerification.cs",
+                      "Bytes":  16796,
+                      "SHA256":  "D3FEABA656AE18CBBA3D86DD87FDE5C5F678DC9EBC090EE7A1627AE278A2864E"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/NativePageRangeV2Verification.cs",
+                      "Bytes":  7268,
+                      "SHA256":  "31E270084EBEF1D50BC01AD0FBEFA4479B55ACA55E6D85FE7C1856B37EFA173C"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/NativePageRangeV2Verification.Current79D1.cs",
+                      "Bytes":  10472,
+                      "SHA256":  "89466C41C9DD466425A4C1125194DF7FBDAB15F08D203DFB03A817BE73DDAAEC"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/NativePageRangeV2Verification.CurrentB47C.cs",
+                      "Bytes":  11745,
+                      "SHA256":  "74614315800237BB3D2CE33765710D3C9834EB4F51638FC9D16A969AD419990F"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/NativePageRangeV2Verification.Modern.cs",
+                      "Bytes":  9903,
+                      "SHA256":  "16AF6CFC1C26E6C89961E692872D30A189A0FFF86008E51E7F44672A035BD209"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/NativeProtocolV13SelfTest.cs",
+                      "Bytes":  14542,
+                      "SHA256":  "BAA0098C6A14896D2E25C6B8F481AD715B6D54D6242478FD3766D3F5DBFB5DE1"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/NativeProtocolV15SelfTest.cs",
+                      "Bytes":  18392,
+                      "SHA256":  "1AE108B9414B3722A0CE47CCDC11D559C5E62A99F1404927D2659817661EACD3"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/NavigationBundleContract.cs",
+                      "Bytes":  7357,
+                      "SHA256":  "65D1C95B3887B3FE00E27562BA2B353E6A76AD44B2FF64D67BDE9401276F62AC"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/NavigationBundleHashSelfTest.cs",
+                      "Bytes":  14148,
+                      "SHA256":  "07A62627C9F163B85F81CF246DCDACBAEC51BC7C7745729F912016307C29C1E5"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/NavigationOverlay.cs",
+                      "Bytes":  8873,
+                      "SHA256":  "E1DB13947339ABE84FAD1E6E4EA04726828CB2E505D4D7CD12FA29EB12F7DB3F"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/NavigationPackageVerification.cs",
+                      "Bytes":  5544,
+                      "SHA256":  "0E922488A4A0DE6CA5EB63C2450B9EDBC633F8B4DF6E6C3AF6D1569BCFAA9F18"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/NotEnteredPageVerification.cs",
+                      "Bytes":  11761,
+                      "SHA256":  "B8FFBBAF57C0D1D944FFF4951FBA23E6B9288F6E70F0BF62028737D056D4D252"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/OfflineSelfTest.cs",
+                      "Bytes":  8185,
+                      "SHA256":  "1E1E54CB367B8FF421B7C3AA98D4B8D6447A835FAC50B5F2D4F60711A33FA7F3"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/OneNearbyShopBaselineSelfTest.cs",
+                      "Bytes":  8187,
+                      "SHA256":  "EDD413942124C025E464CC5E6FD093E8CCC8DC017CC99EC734F3AA6E0C44D422"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/OneNearbyShopVerification.cs",
+                      "Bytes":  11854,
+                      "SHA256":  "20E82968A212B83DAC77684AC9A94CBAAB62A0D3E0C3AF7C449612589CBB8ED4"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/OneShopVerification.cs",
+                      "Bytes":  7297,
+                      "SHA256":  "35BE7E60F08F42BC3719A7E5E2F8AF13D0A7D68625226378A58F087F6D65C09B"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/OneWaypointForceVerification.cs",
+                      "Bytes":  14012,
+                      "SHA256":  "19840D7E0F503C173FDC1087584E65CBD522861BABF978561F98E5915FF9D97B"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/OneWaypointVerification.cs",
+                      "Bytes":  11922,
+                      "SHA256":  "0721462E392E4AFC0976DB9EB54EFF8F453DC813F4B538EC115DA728C2307B59"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/OnlyShoppingDispatchSelfTest.cs",
+                      "Bytes":  18270,
+                      "SHA256":  "6BC90107075D8E8A123E2C4CFD51E6D5971B25F1C448A061D56EEB3CF1322DA5"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/OrphanHistoryBoundSelfTest.cs",
+                      "Bytes":  3706,
+                      "SHA256":  "3E0829FDEE463AC942D8434810B517282C814E3F7132081EE7007B0BC0C3589E"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/OrphanRecoverySelfTest.cs",
+                      "Bytes":  7176,
+                      "SHA256":  "0E5BFA5C4722657D44D5FCC4358D12F5D4FB0A588E54F15EC586FC8F41A67F69"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/OwnerChangedPreflightVerification.cs",
+                      "Bytes":  43024,
+                      "SHA256":  "4E84D328BD1C1FC051472EBE3ED6F404AB49579486189D9B5391758BB6B53BC5"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PageIntervalMillisecondsVerification.cs",
+                      "Bytes":  1514,
+                      "SHA256":  "C51D577E3756EFCEE506A164A76501DB154D9DFC24B7F6324DECC57BE9F9E934"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PagePacingElapsedSelfTest.cs",
+                      "Bytes":  2682,
+                      "SHA256":  "18C50A443914761FF0F926F7781E5665040E70D47967E3D6685A7A90A9C11463"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PagePacingVerification.cs",
+                      "Bytes":  970,
+                      "SHA256":  "17F0EE3FB301C8986FF4D8530765AF7AD52546CBB500A3689A4786292AB6CAA1"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PageWaitPreferencesSelfTest.cs",
+                      "Bytes":  3843,
+                      "SHA256":  "92D7EEC69ADE7F4032FFABE5B550BE8A30B9872BE015C6CF1D0CCE92235DFA80"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolAutoResumeSelfTest.BoundedRecovery.cs",
+                      "Bytes":  6453,
+                      "SHA256":  "F969A618F0EC0D99CB2E6A927FC4EC7B74BF7AA563B870B4C3600AB4581030D0"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolAutoResumeSelfTest.ContinuousReadinessWait.cs",
+                      "Bytes":  2502,
+                      "SHA256":  "2B62A2AE31AF562CB67B57F3AFF09766776D69192F4E84030E7FB5CFE442C250"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolAutoResumeSelfTest.ContinuousRecovery.cs",
+                      "Bytes":  13621,
+                      "SHA256":  "2510F126EAC641043A085B44841A6352E2704B749E99DC705F59A288C12F0122"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolAutoResumeSelfTest.cs",
+                      "Bytes":  51986,
+                      "SHA256":  "F2BE2F9AC4C3F3A941F49FD23210FABDD29184AD2D2E2DE87F9041253CA38FD2"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolAutoResumeSelfTest.FrozenPointTargets.cs",
+                      "Bytes":  11455,
+                      "SHA256":  "42B66833E70CE78596C40CDEBBAC4A32EC2377145E7B7C6D36D43BEEECB1A075"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolAutoResumeSelfTest.NativeCodeStop.cs",
+                      "Bytes":  8203,
+                      "SHA256":  "9B5E08116B8020A81795838C50F8241B1E4A0940BB4D2F5862623FC005556699"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolAutoResumeSelfTest.PageRange.cs",
+                      "Bytes":  5081,
+                      "SHA256":  "7C466642234D67995641A62ABE7C87F4C6DB395A4F011194C6ADDAF4F19160D4"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolCaptureAutoRecoveryVerification.cs",
+                      "Bytes":  28516,
+                      "SHA256":  "83ED987F374313FD33304F397B5483E80C13FAB3DF5EB9BCF340D33A06EB7F8A"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolCaptureHttpBudgetSelfTest.cs",
+                      "Bytes":  22547,
+                      "SHA256":  "0BA6967DE146766F0590934D19E6C81138CBB7D24B81CCD264456EC1F395002E"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolCaptureReadIncompleteVerification.cs",
+                      "Bytes":  18079,
+                      "SHA256":  "8C8AC824CD7ECCF9D4910D1733307BFCB3444E55B866DFD01DBB95D2BACBF219"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolCheckpointImportCommand.cs",
+                      "Bytes":  5455,
+                      "SHA256":  "08142BB529DBAF82BBBB52F51BBB60AA90E928A11F3D6B4673D04397C4259FA4"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolCheckpointStore.cs",
+                      "Bytes":  19081,
+                      "SHA256":  "3A743DC097117E4AA71F3AC15A9509E3A88186CAD9A123713DDB58D2B38DDCCC"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolController.AutoResume.cs",
+                      "Bytes":  21309,
+                      "SHA256":  "AC49AE49E7C0BDE294561C364A16FAAB1FEE354E5349178EC350BC5911F4365E"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolController.ContinuousRecovery.cs",
+                      "Bytes":  5209,
+                      "SHA256":  "4AB2CBE269D05F5C80B1A5998F7D478C2B64C019FB3AC4DDCBBEBAEE40AF5C91"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolController.cs",
+                      "Bytes":  48575,
+                      "SHA256":  "52342554F26E5A11573F80C316748209E286CD39C7D05D1693C93C72B2B08F4B"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolController.NativeCodeStop.cs",
+                      "Bytes":  1215,
+                      "SHA256":  "C44234736CFF87C960882076EF57EA34C2C77FC4D88696550130B1888120FBAF"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolController.Reset.cs",
+                      "Bytes":  1864,
+                      "SHA256":  "0C266CC1BE58F46C936822D56441A778A52492E3FD33D994782CDCF230257D9C"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolController.ScanAcceptance.cs",
+                      "Bytes":  9089,
+                      "SHA256":  "7CA9AAC6343830C02F8981BE61FDC6BB40AA086833081869EF8619B0987C47C2"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolControllerSelfTest.cs",
+                      "Bytes":  77027,
+                      "SHA256":  "27377A003A53F30ABC29489B347EBB5C119BCB6B949F0888C3291D96229090DE"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolControllerStrict.cs",
+                      "Bytes":  42151,
+                      "SHA256":  "EB7BAFA54C59567671B25FD8455C998E18D6452D69550F43EDAF3EA9907CF657"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolDisplayPose.cs",
+                      "Bytes":  635,
+                      "SHA256":  "BDB2B8B5BD1F9019E978F999BC282F687BB6374950957534CB9C4363614E159A"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolForegroundGate.cs",
+                      "Bytes":  3990,
+                      "SHA256":  "AAAC13F6A5AE6358625F82879CD9FB3ECB38B28AD29B499D6FEB939049EE20DF"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolForegroundGateSelfTest.cs",
+                      "Bytes":  3096,
+                      "SHA256":  "33D4B9701662FE121A38AFA6A8EC781441960BD5A3B79F798383A86DDDD53FBD"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolForegroundPermission.cs",
+                      "Bytes":  1305,
+                      "SHA256":  "EED9792B9C737B0E50B82D8F2FD301A5877F6901C6801DB317904C1B2902E4D8"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolFreshSourceGate.cs",
+                      "Bytes":  6941,
+                      "SHA256":  "B89AC583C9E057A7133A1DAF3DAD075ED3B2583ADF6FA15A55DC208D3325AC91"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolFreshSourceGateSelfTest.cs",
+                      "Bytes":  11658,
+                      "SHA256":  "57B5794BD30F62A12FE391001C98C257CD1C511A0F537B91EDFCE81C8F9A574B"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolNavigationClient.cs",
+                      "Bytes":  50871,
+                      "SHA256":  "5BD2A34CC75B327008AA1FEDAA1B792604202340B21097F0927ED14D6B3718D9"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolNavigationClientSelfTest.cs",
+                      "Bytes":  4527,
+                      "SHA256":  "CD9F9D861901FE991F5135C2EB00215B043CCC11973E1AC8292A07A777839799"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolNavigationDisposeSelfTest.cs",
+                      "Bytes":  2100,
+                      "SHA256":  "56AD96387D66919ED23ACD380BFA1DDFA7695A4B9D402E46F21F7B7E0705688B"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolNavigationPrewarm.cs",
+                      "Bytes":  1861,
+                      "SHA256":  "BC49BBDE652EA9A5F9C4857D413849EC1CBE2A405C58125A6C12C008AD6C2076"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolNavigationPrewarmSelfTest.cs",
+                      "Bytes":  5496,
+                      "SHA256":  "12C8CE1E8F6D3045643752B86E8838D99AF8A55168F64B848935644EC690FC25"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolNavigationRecoverySelfTest.cs",
+                      "Bytes":  61128,
+                      "SHA256":  "A8E488FFF7E89399C844F6974703987A5D1C4CA8D37A2B6BAF63C3E1AC1261FC"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolOverlayPresentation.cs",
+                      "Bytes":  10423,
+                      "SHA256":  "245D12C7336B321B86F2391598D1FFA5B04EF80FF84E4003AB2A3800745EA07E"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolReadinessRefusalVerification.cs",
+                      "Bytes":  15536,
+                      "SHA256":  "D26F15AC1586D7D17370341BEF4CA8D45277DBEF9E5D60B4D054E83CA83A5B61"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolReadOnlySmoke.cs",
+                      "Bytes":  4127,
+                      "SHA256":  "E9E26B7B7B459041D08378B9B7269663E4736C10B5AFC65F65A3F8A2731017A4"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolResetSelfTest.cs",
+                      "Bytes":  18893,
+                      "SHA256":  "23AED815A019374B42B61755B3EC66D6616517B32D3B1FADCD9E931663D2C5EA"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolResumeNavigationSelfTest.cs",
+                      "Bytes":  18012,
+                      "SHA256":  "F05BB0E26CC435582DB64849C0E826C38AB86C1ACC27668C6AAE939BACB43984"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolRoundSettings.cs",
+                      "Bytes":  4174,
+                      "SHA256":  "0AD9E3D68C2DB19C193EA49F76C332FF85A5E2C0069DF6E331E6149F29B93DC0"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolRoundsSelfTest.cs",
+                      "Bytes":  14560,
+                      "SHA256":  "3DF47E0610CF8F9AB2C8FA9B5E6CDF9C77BDA663AE404AC1F511D64DE2F27B76"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolRouteForm.cs",
+                      "Bytes":  18876,
+                      "SHA256":  "C978422B2AAD4EA2DEFB9E9AAF074A673E83DB0EB0F076641E6B84F1B58812D1"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolRouteModels.cs",
+                      "Bytes":  4584,
+                      "SHA256":  "59616091AC4756EBABCC5C5D883013E2F02F9B977B224F2FA73B68CCA98CEE3D"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolRouteStore.cs",
+                      "Bytes":  8045,
+                      "SHA256":  "EC7BCEFEB78ECC09AF16CA6E9C28B2435FE5559DAC0BB7A3F84B7E927712E6C6"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolRouteStoreSelfTest.cs",
+                      "Bytes":  15101,
+                      "SHA256":  "CB641593B0D6A772960EEF6801FFED0E39C5BAB70375BF253E129A78CA9002EB"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolScanAcceptanceVerification.cs",
+                      "Bytes":  17855,
+                      "SHA256":  "032D4C7B52DB05401C3FA17BF6A6BEA8CEF0DA95A1A3FD5A7223E228879D30D4"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolStartEntrypointSelfTest.cs",
+                      "Bytes":  7864,
+                      "SHA256":  "702147CFE22BB46921FB0B30D44F5BB46463F962FA1A7CB2BCED6BA36DE5467D"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolStartPreparation.cs",
+                      "Bytes":  264,
+                      "SHA256":  "0ADCADC8F7BC54DE13BA115EAD273E6F2366F592EAE2DCD5926CD36FE730AB8A"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolStartPreparationSelfTest.cs",
+                      "Bytes":  1559,
+                      "SHA256":  "3548672C168C41D9BFAD99393D5CBDA31C910FD8922517C3890388A11452F58B"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolStartupContinuousPolicy.cs",
+                      "Bytes":  7679,
+                      "SHA256":  "7D4A78E8BB24E6A087218EA4BDBF12B8B68D43B5DE23C2C9F3439BBCEABC5B9D"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolStartupContinuousVerification.cs",
+                      "Bytes":  11803,
+                      "SHA256":  "D90E46F2FEBF9EEF9E8ED38428124A39C18F7BC0B025D9CDB79CC54795F1DE1A"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolStartupIdentityGate.cs",
+                      "Bytes":  4745,
+                      "SHA256":  "C8E6BB6C821199ED9FFCD36CB3A20805E7A2CCBEA52F32C3E585F347ED69EAB3"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolStartupIdentityRecoverySelfTest.cs",
+                      "Bytes":  10438,
+                      "SHA256":  "1AC1B6CF320085E10583F8AB08074853FABF82E7F48E869258120628A39559E5"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolStartupMainFormVerification.cs",
+                      "Bytes":  17294,
+                      "SHA256":  "2F8C8D307478CF2577384A41D8CC64E59F970931CFA30650BF2CC7C0A53E13E5"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolStartupReadinessPolicy.cs",
+                      "Bytes":  9293,
+                      "SHA256":  "D9199D0337FAFAFF6D116C517FEAFC8ECE98772102932023DC347422EB5C9D29"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolStartupReadinessVerification.cs",
+                      "Bytes":  15667,
+                      "SHA256":  "B70BF67A68A5325D752299191F7248D5F4EAB33E7353731E29C134633BE0CB17"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PatrolV57Verification.cs",
+                      "Bytes":  3397,
+                      "SHA256":  "FA4774D97A5722DE72A3D137BD9FA29D340AFAE086D7F0B6DC7FD07AA469E8AA"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PhaseIoVerification.cs",
+                      "Bytes":  1081,
+                      "SHA256":  "A5F63737B6BBB8BA914132CB28AEB56C5A0CDA337B31FEF3AB39BF008396B6A2"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PlayerShopStatePresentation.cs",
+                      "Bytes":  1680,
+                      "SHA256":  "A2C0F64DAA21668E65F550CD51DF0343DB7E6F7815CFD67C5C88BCD6FC45F91B"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PostIntentRefusalSelfTest.cs",
+                      "Bytes":  18641,
+                      "SHA256":  "26A8573C69C9B435A2126ECB1DABAE17AAA4EB0D4DCAF7FFA259DD2196DD161A"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/PreflightReplaySelfTest.cs",
+                      "Bytes":  7981,
+                      "SHA256":  "787AE5F080D4ED52B7D49DA89953EF179E57CF7D42FF57A587E815EAA7A8C4C6"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/Program.cs",
+                      "Bytes":  26061,
+                      "SHA256":  "9715784C2DE465C9B181D96FA92873E6D184AD4A99D105DF3C8B404477AAE890"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/RecordedStateEvidence.cs",
+                      "Bytes":  2148,
+                      "SHA256":  "8823D70B48C5F6458959B747AB827C81ACDBCF01A778573621DBEB1F6315A0A6"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ResetNativeFlightVerification.cs",
+                      "Bytes":  11303,
+                      "SHA256":  "C6174A2D4205900A1BE818599DB484795FBCA6561DDCD87BC7304BF8BA4F947D"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ResidentNativeHostVerification.cs",
+                      "Bytes":  1154,
+                      "SHA256":  "E135A29451DDD15B21057E5C7E89BB3CB4B9F82F2FE730883E54D35AAF201982"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/SavedPositionNavigation.cs",
+                      "Bytes":  2265,
+                      "SHA256":  "A1D2C3C7648816058F7FE4FD8FFB3D67BD6D0A53264C8E95686E3B37AF9D66DF"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/SavedPositionNavigationSelfTest.cs",
+                      "Bytes":  8293,
+                      "SHA256":  "C843F31DA75EA7DE9E4EF66DD7F429E31567131D267CB4E1D39F537DFEC2D021"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/SavedSearchPresentation.cs",
+                      "Bytes":  5276,
+                      "SHA256":  "9C31F781F861AF77FBAB9F0EB265E5BC5E05120E4E439B2A2850EEB3B51B239E"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/SavedSearchPresentationSelfTest.cs",
+                      "Bytes":  7640,
+                      "SHA256":  "7AF57D211D0C661C74C4E99A86ABC016FB34FA6A8EEF516AC7CC4BE76B836543"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/SavedSearchRecordsForm.cs",
+                      "Bytes":  11220,
+                      "SHA256":  "5A768F833A1D1F0371E25ACDABDBDB4C5AD61EBF670128AA07DC7628B3324305"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/SavedSearchRecordsRenderSelfTest.cs",
+                      "Bytes":  21499,
+                      "SHA256":  "3627F0AF3D2BCD16B740DDDDD3B8D99C4CB67750C5A5E6E4F0CD61E4497F3A20"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ScanStartupConcurrencySelfTest.cs",
+                      "Bytes":  4334,
+                      "SHA256":  "DBB4F4369648EF9AFC8D6AD5466FD118545050485067398A7DD23691FDE5E15D"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/SearchArchiveAudit.cs",
+                      "Bytes":  4477,
+                      "SHA256":  "5669C982F5B27E2594DEF1F2EBC0E303C8ABDCAD8EA1CE1CB06AD85C8AAE989B"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/SearchOverlayCurrentRequestVerification.cs",
+                      "Bytes":  8242,
+                      "SHA256":  "44C3BABB9A4BEAC742251B02549B9A4D707EA383E890BDCF6B09D5E413B4DADF"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/SearchOverlayPresentation.cs",
+                      "Bytes":  7267,
+                      "SHA256":  "D785C69F6853F566A7F566069091E48A52971185D719CDB4F5438795DF79FDD5"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/SearchOverlayPresentationSelfTest.cs",
+                      "Bytes":  6646,
+                      "SHA256":  "E1AC55C0CF31AFA03F257C8679C8D375606E24BDCD43BD9C5AFF364DF7A5385F"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/SearchRestartCoordinator.cs",
+                      "Bytes":  8194,
+                      "SHA256":  "741D2557877B1AF0DBEA69412803F898D546ED9E813CBFCEC6F5128A76239975"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/SearchRestartCoordinatorSelfTest.cs",
+                      "Bytes":  15930,
+                      "SHA256":  "8FE71175045171DDEB245000707CB90C7221DCE2B3E311969778E41EA6DFA5AB"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/SearchStatusOverlay.cs",
+                      "Bytes":  6416,
+                      "SHA256":  "1367AE2C6504B3D58D6AE9EC2B8C17E462DAC6357F8CFD0BA2F1A390D4B2CA8D"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/SearchStatusOverlaySelfTest.cs",
+                      "Bytes":  5554,
+                      "SHA256":  "D02FD7812F97BCC0C6A059E9118145C2DDBA024F0371AAA77C464C8C6C3AC7FC"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ShopLockRecoveryCommand.cs",
+                      "Bytes":  2226,
+                      "SHA256":  "F7FBFAEB158B44888FC278E6921692AF9843453782A4BA45FB0A255588409A62"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ShopNativeReadinessVerification.cs",
+                      "Bytes":  34352,
+                      "SHA256":  "91FF1652E5B5B797AA0AFDF6E334E3B6D3A17B7DC24D2572D69BC1F277195C9A"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ShopOnlyNavigationSelfTest.cs",
+                      "Bytes":  9562,
+                      "SHA256":  "D797924BFA38B80609963D084427B6DB319DDFD2B791133B5796683121B669B9"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ShopPagePacingSelfTest.cs",
+                      "Bytes":  11272,
+                      "SHA256":  "BB71C3D00B9291FCE251F01A28EDA9E5FC47D91915FFAB5A9CC95104D0B28394"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ShopPageWaitConfigurationSelfTest.cs",
+                      "Bytes":  4667,
+                      "SHA256":  "AF0070A598262A48604BE24DDD55E8DF0FF32DC0DACC5773CEE2A618F656A8C8"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ShopRefreshReadRetrySelfTest.cs",
+                      "Bytes":  2245,
+                      "SHA256":  "D03C3630D0D24E3D98CFABF4B8FF47EB483222BBEE25B7F177D2FA7B2233DDC6"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ShopSearchHistoryPresentation.cs",
+                      "Bytes":  6985,
+                      "SHA256":  "BCD419F9748481DF6135891C792BC00292672B6CB25E04652CF11A97021811C3"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/ShopSearchHistoryPresentationSelfTest.cs",
+                      "Bytes":  10027,
+                      "SHA256":  "8DBD0CF1680758AB88CE537C5F4643D318B4B37C44F3E6BE8C28E069923B84FF"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/SortingSelfTest.cs",
+                      "Bytes":  9947,
+                      "SHA256":  "99B3EB5A0C9190EDCD4DD165875AEC17AA27474D21A87CF02611F726FFA06D26"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/StallDraft.cs",
+                      "Bytes":  12632,
+                      "SHA256":  "585CDD6D2655865D5B0A0D0FF89B02FACEE88715E8EBEAD65B20F87D354B1554"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/StallDraftSelfTest.cs",
+                      "Bytes":  4175,
+                      "SHA256":  "2AB6FE3DB1ABFAE827F4025F50DEFCE0EFF9CCFFA7C9E4F2372CE6D49D072640"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/StallDraftUiSelfTest.cs",
+                      "Bytes":  3218,
+                      "SHA256":  "0773F4E59E6681884EC79348B9CF13E42FB787CD62C98A227B4F22ED6920E19E"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/StandaloneMarketBackend.cs",
+                      "Bytes":  13972,
+                      "SHA256":  "88E7F4A3D9C2F5C7A94E4736C0A42F6CD5FE157D2C5B2187FF0890516A21DE53"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/StandaloneReadOnlySmoke.cs",
+                      "Bytes":  14536,
+                      "SHA256":  "D420E50025AB46F80F1151802A3F52D612924BAFDD0383DC54F5BE64782035ED"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/StandaloneSelfTest.cs",
+                      "Bytes":  22513,
+                      "SHA256":  "AF232DD723C462148E7E4CD49BC0BF1236C4C2C3566097FF3FF398DE31AECF09"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/StartupBenchmark.cs",
+                      "Bytes":  3690,
+                      "SHA256":  "595E7584821FF6CE7E35B2A355EEF7B7DB3FE9EE1BCB6C0DBD6364DDE48B2460"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/StartupHistorySelfTest.cs",
+                      "Bytes":  6578,
+                      "SHA256":  "AF31C11398F8933B142581A54A9315042B7A033EA2BE052DF8FB4D1ADD8DAC32"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/StartupReadinessSelfTest.cs",
+                      "Bytes":  11538,
+                      "SHA256":  "6C55002395AF8C028B2431768A3DEB72B0925A804F72242D9700232548A18358"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/StartupRecoverySelfTest.cs",
+                      "Bytes":  8845,
+                      "SHA256":  "F5E15CB9F1165C1C38F365888F90B9679EB07A91B9F000D8856A3EFE783FFDF2"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/SubmitSliceReplaySelfTest.cs",
+                      "Bytes":  5577,
+                      "SHA256":  "2E3A067462910E1EF116A63E2CD97CD195C4E5E336C7D8E3AFFC53B528278487"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/SyntheticHistoricalContractFixture.cs",
+                      "Bytes":  5687,
+                      "SHA256":  "CF0C8970C36B4A3D42F52E474CC40ED756BCAD0FD5B61990C8BB36704DC2A6A8"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/TargetedDispatchVerification.cs",
+                      "Bytes":  25142,
+                      "SHA256":  "E3C85E0F8956B0D9F7837600EF2CC2E932A7745BFC3D2B1B1A75A2C6E328046A"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/TemplateAdapterVerification.cs",
+                      "Bytes":  1445,
+                      "SHA256":  "0B30513A766458FE57CC90FE0DE31A83CC089F7C9D604136EB220319F1F5C1FE"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/V16InitialPreflightVerification.cs",
+                      "Bytes":  17242,
+                      "SHA256":  "54E2D622A05B31ADE41EA9A0016F179FDCA9BBEA5DFECFE55772B65FF7648F18"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/V16PacketCopyPreflightVerification.cs",
+                      "Bytes":  15689,
+                      "SHA256":  "FFE9C9CF365F45C3E20D619A26A3D504C4F8EB37169973DEB5C3CE42566DE064"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/V95IntegrationSelfTest.cs",
+                      "Bytes":  1454,
+                      "SHA256":  "7D64BD55FEE2C56D2824BCD935A5AAEA89C9ECAE731587B91CD56784637C29B5"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/EmptyPageObservationVerification.cs",
+                      "Bytes":  19000,
+                      "SHA256":  "BB45E2B0D7D1BFBFE56D5E79068AB1FB18DAD01C83CB5E0F16B8DA0A7B859451"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ForcePreflightReplaySelfTest.cs",
+                      "Bytes":  10102,
+                      "SHA256":  "BFCCA22FE93158DB9C8E90469B46D7EC42C8C2082BDFC1AD54D286509880A08B"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ManualLockReleaseStore.cs",
+                      "Bytes":  3217,
+                      "SHA256":  "E650FED4C89115B979D97B462A95C29D579B2D7F2F3680CBE656FB2D213FE067"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ResetSearchProgressSelfTest.cs",
+                      "Bytes":  18166,
+                      "SHA256":  "260C465939234F8768251E8B3D0B1B3638B94464F6D7992F43E1B7E9231D0BB9"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ResidentCore.Contract.cs",
+                      "Bytes":  9015,
+                      "SHA256":  "588350A049EEA2E2451B8282FFB204EE1468CEE9D970767992CAF38FEED1E11A"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ResidentCore.Outcome.cs",
+                      "Bytes":  28884,
+                      "SHA256":  "0B33BC0916C34868DBF07C1EBD3D9CFF03DC9324994242605226EAB2200589EA"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ResidentCore.Outcome.OwnerChangedPreflight.cs",
+                      "Bytes":  13243,
+                      "SHA256":  "C6570EA11D1A019DF5EFDB72222C2607378B34C831738A1BA74D2EC208B954C9"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ResidentCore.Outcome.PageRange.cs",
+                      "Bytes":  9718,
+                      "SHA256":  "068DA8D3BE1970791B47BBAD0285B183C5382603D6DDAC7709710104494A5F82"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ResidentCore.Outcome.PostIntentRefusal.cs",
+                      "Bytes":  8768,
+                      "SHA256":  "9B27699B18FB57E7BCC728DFDE85BAD71780E1F9A2502FA6B3891434514391F5"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ResidentCore.Outcome.ReadFailure.cs",
+                      "Bytes":  8831,
+                      "SHA256":  "D53EF15A727FF450FACC7A3B282F02F8758AA6D44993F709EDB92DF7032E7955"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ResidentCore.Outcome.V14Preflight.cs",
+                      "Bytes":  8246,
+                      "SHA256":  "57EE5D29FF5FE7FB30472B078435D42ED331C804B6FAECE9C2EE3A0373B6A9E7"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ResidentCore.Outcome.V15Contract.cs",
+                      "Bytes":  8408,
+                      "SHA256":  "D1A6FAC661A3FCDB51ED56CBD73C5AA96B0B6A18B343E10B1E39B94B8466BF07"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ResidentCore.Outcome.V16InitialPreflight.cs",
+                      "Bytes":  8489,
+                      "SHA256":  "DA4122972461B55DE1AD9037270F128267EA90BFDA84DC4E41211D56C5AA390E"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ResidentCore.Outcome.V16InstalledPreflight.cs",
+                      "Bytes":  15500,
+                      "SHA256":  "0D0B48ABCD7D04FF01194B3E4F02C6872B2B8A6581187FE28B3EC4B677E3058D"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ResidentCore.Outcome.V16PacketCopyPreflight.cs",
+                      "Bytes":  8129,
+                      "SHA256":  "4C1B7F161CC05E9AB8049D1865232EC6B1C5278E8F079EC2837F335D4B0862C3"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ResidentCore.Outcome.V17Contract.cs",
+                      "Bytes":  27350,
+                      "SHA256":  "929E1183FB404ECFD02F53F4DBB84A3458B332866DBC690CC891E186BDEC7597"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ResidentCore.Outcome.V17GuardRejected.cs",
+                      "Bytes":  5239,
+                      "SHA256":  "73FCAD2415111D0FACE7D91F4D2986BB344A647128587A69B756B23EBB00D176"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ResidentCore.PageRangeContract.cs",
+                      "Bytes":  6422,
+                      "SHA256":  "C313412D914ADF3B32A9E02FEB9AF699608D39D80B7EEE7C804A44012B17C9BB"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ResidentNativeClient.cs",
+                      "Bytes":  13549,
+                      "SHA256":  "05B831B6D3CBAE89E32F75B3C50B62012C8DE793421D34FB9E7BE5D4126330D9"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ResidentNativeFlight.cs",
+                      "Bytes":  4786,
+                      "SHA256":  "7133645CA46686292C6CAC042DFCD98D364AD9D027B9BB30DE4194A7CC58B66F"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ResidentNativeHostSelfTest.cs",
+                      "Bytes":  17430,
+                      "SHA256":  "AE465A53D05386B897337F4AEF6A206DF8ACF5F6428156DF53603F4536041485"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ResidentRequestEvidence.cs",
+                      "Bytes":  5390,
+                      "SHA256":  "7103C7B77C50CF646EB052CE7104860A48C0599A3168BE23E5E69A3465F21854"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ResidentWire.WorkerContracts.cs",
+                      "Bytes":  3007,
+                      "SHA256":  "60266CCB6BDDBA8B89692969FFACF8489FB1DF24376725297A9BFC03A212DA1A"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ResidentWire.WorkerSession.cs",
+                      "Bytes":  4749,
+                      "SHA256":  "9969614A4F04198C5329B9B56F9AF0DC750E387A362E05946865A0CB051A2E37"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ResidentWorkerPackage.cs",
+                      "Bytes":  5369,
+                      "SHA256":  "E68E2C86769919AFD1A9D1B6C078611F098F398AF772B587450B648F79DE4D20"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ScanPauseCoordinator.cs",
+                      "Bytes":  4069,
+                      "SHA256":  "3A2F27910623F37C969EB153E35BA7B8A774A5F51471F128DADAE1F9A94A8DD8"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/SearchedOwnerArchive.cs",
+                      "Bytes":  12727,
+                      "SHA256":  "D3B48850C9C8B038067938505B42FFE2B199F84C07011C579BD2CF26B48FCC6C"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/SearchedOwnerArchiveSelfTest.cs",
+                      "Bytes":  7052,
+                      "SHA256":  "D4C612593E6901F204435402EEC90045B9388ECB611A8213F7111CDF039BCDA2"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopBroker.cs",
+                      "Bytes":  80800,
+                      "SHA256":  "34945411BDBE40FCEDBD30DBE09244473934E162197C397B4F09D7BB86FAAF5B"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopBroker.ForceDispatch.cs",
+                      "Bytes":  25383,
+                      "SHA256":  "AF264A4FAA5064A41A2ADFC0F78873A3B35AE5696EAC5471CDA2EB0C3B4CEBC1"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopBroker.NativeFlight.cs",
+                      "Bytes":  1834,
+                      "SHA256":  "58005CE1A44652FE6B819756815DF07C29189700CE26A4B189AC5DEDA216F419"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopBroker.NativeReadiness.cs",
+                      "Bytes":  14627,
+                      "SHA256":  "71475974282FA184A6259FDAEA2D05827E83438F354639B62E6F8BA1F179E750"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopBroker.PendingGate.cs",
+                      "Bytes":  1362,
+                      "SHA256":  "931D2C4F492936C01851751F90E75E69A6E1A314FBAE90C56E02CCED43B1BB2F"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopBroker.PhaseIo.cs",
+                      "Bytes":  1751,
+                      "SHA256":  "F472B3984A8A2AE791F8B1C39BF537597B8E3620F0D1F3B3FE1B71EE5D07659F"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopBroker.PostCodeRecovery.cs",
+                      "Bytes":  9767,
+                      "SHA256":  "B11CDC48A8B089DF8F4FD2D82482A4DACEE8D3EE854CF5A490F048E667DACE54"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopBroker.PostCodeWait.cs",
+                      "Bytes":  7056,
+                      "SHA256":  "4ABDC7FEB3B0FD06CF52347A14A51642E75F73671B502130CCCFBCEFBED20611"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopBroker.ResetSearch.cs",
+                      "Bytes":  8612,
+                      "SHA256":  "C82F8423E9266364CE9FE3DF1D579E42554091560BA7C854268134F0D6B196F5"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopBroker.SearchHistory.cs",
+                      "Bytes":  3740,
+                      "SHA256":  "2799C6F2487654A15678F0BBD64360C6E2B039E0CB7EDCD1E15B6F89EDD91F2D"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopDispatchPolicy.cs",
+                      "Bytes":  3037,
+                      "SHA256":  "EE7AC12F06A41C1F69075205813FB3B2597D0CD2D8C83CC4DAEFA5EC53A1B5F5"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopDurablePhaseIo.cs",
+                      "Bytes":  3947,
+                      "SHA256":  "CCA5860498845152CBA62A62AA2B305E7159872B55F73932AA64FC6F620C5257"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopDurablePhaseIoSelfTest.cs",
+                      "Bytes":  15717,
+                      "SHA256":  "A5B5B30898C3C0F5B79CC3B4799B0E4574D42CE1FC78BD69E485AAC285145991"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopDurablePhaseReplaySelfTest.cs",
+                      "Bytes":  10386,
+                      "SHA256":  "16BC93729180BF3B46E54AB1B7AF8DFB5464B300A01A6C7F9C8742A037EEEE9F"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopEmptyPagePolicy.cs",
+                      "Bytes":  3794,
+                      "SHA256":  "7F902C93A3436E24A47F73B3E52682D1CD628D9DC6E28E461AC93230535B3A0B"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNative79D1Contract.cs",
+                      "Bytes":  9020,
+                      "SHA256":  "213681D2D0991A1E65F7B48C5A286B5AB5DF129828479DB5CCC4B8C09C7063EE"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNative79D1Outcome.cs",
+                      "Bytes":  29812,
+                      "SHA256":  "AE3C141948F4512D51EF3E6B314B0269D3AA6A4E38717493D901D07088C87B97"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNative79D1Outcome.OwnerChangedPreflight.cs",
+                      "Bytes":  13236,
+                      "SHA256":  "7C19A0D8121552835D3674D42F74AEEB1F55BDDB213C78411ABB758F00389303"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNative79D1Outcome.PageRange.cs",
+                      "Bytes":  9709,
+                      "SHA256":  "40EBE406BEDB4DD9171F59AE35160335007BD38FD6E9AB41AB98273AE4EA6CA7"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNative79D1Outcome.PostIntentRefusal.cs",
+                      "Bytes":  8777,
+                      "SHA256":  "C0D259286A6AB6423CB6C76722DFF3E4BFFF9E6A60FAD97247B822BC2B21B651"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNative79D1Outcome.ReadFailure.cs",
+                      "Bytes":  8804,
+                      "SHA256":  "72D1A7AC28AA5BE921FFDDA5C24D6F330E45D15A866568575CC095A435A68E92"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNative79D1Outcome.V14Preflight.cs",
+                      "Bytes":  8238,
+                      "SHA256":  "A5C72264E83552CFF87AD6BEC55340994B21CA468321B11751A8E92AEE6CB122"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNative79D1Outcome.V15Contract.cs",
+                      "Bytes":  8401,
+                      "SHA256":  "F0530774B46EB531DAD420FA191DC6D713357EB41F0C2A6E5D7AF30D93ACB30D"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNative79D1Outcome.V16InitialPreflight.cs",
+                      "Bytes":  8483,
+                      "SHA256":  "73E001BC9FB0D65F4F8ADDCE917F222D5CDB79963E59807134E22227DEB59D34"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNative79D1Outcome.V16InstalledPreflight.cs",
+                      "Bytes":  15494,
+                      "SHA256":  "BB7FDB389D8F6E3C7D72C8BB5714D02E200CA6B1C0DB0F0F19468D6505B6C2FD"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNative79D1Outcome.V16PacketCopyPreflight.cs",
+                      "Bytes":  8122,
+                      "SHA256":  "D20AEA4965C1EC678F7C14EC3D6F5E7086B5DF7F26E7E5917C9B06C31F7FA9D2"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNative79D1Outcome.V17Contract.cs",
+                      "Bytes":  27367,
+                      "SHA256":  "73044BD2B302124AB55764F65C2F894993935CEC0854161F1097A116F0E6F2E2"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNative79D1Outcome.V17GuardRejected.cs",
+                      "Bytes":  5206,
+                      "SHA256":  "D39CF7D60E31FAB27B74616A6A4B825F046463DA8B6B74133FB70FC604A71DA9"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNative79D1PageRangeContract.cs",
+                      "Bytes":  6532,
+                      "SHA256":  "519EBE1A87BD362247401543EA2B941E95278569F143F7680E0E7AD879826E0B"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNative79D1ReadinessProof.cs",
+                      "Bytes":  19212,
+                      "SHA256":  "CEEBFAAAD9F6FD5FD510EC139BA04364B9562DB1D6619D0B8431ECE431A819E8"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeB47CContract.cs",
+                      "Bytes":  9010,
+                      "SHA256":  "943834AEB80F115C5F0DA2257BD9D808A36081A7EFBDA4A0A8D5012AD48791D5"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeB47COutcome.cs",
+                      "Bytes":  29802,
+                      "SHA256":  "6890483DF628CAB50961FCE855046FD5569B4C6892B0F8FCAFE52FCC0C349A60"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeB47COutcome.OwnerChangedPreflight.cs",
+                      "Bytes":  13216,
+                      "SHA256":  "6F0C4E94489BA794ADB7210941A86354FC03634D2AD638F80D0E25E5B033DE82"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeB47COutcome.PageRange.cs",
+                      "Bytes":  9709,
+                      "SHA256":  "EE849D2B838DD1C743B1A95D4A21151C88C74B8AA5CD2A2277289E6F4FF0FB7C"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeB47COutcome.PostIntentRefusal.cs",
+                      "Bytes":  8759,
+                      "SHA256":  "2055B60744163F817C03FB3481A701FFF523802243339C15976EA2BB2240281C"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeB47COutcome.ReadFailure.cs",
+                      "Bytes":  8804,
+                      "SHA256":  "3B395165B36BE0B14EBF2A41803DDAE8AEC21E9EB5E79E8F3BE755BE828A1B1C"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeB47COutcome.V14Preflight.cs",
+                      "Bytes":  8217,
+                      "SHA256":  "453DAA6B6391183CF4C30AEEDEACDEC96FE728129529A0CBAC8E276FFCA91091"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeB47COutcome.V15Contract.cs",
+                      "Bytes":  8401,
+                      "SHA256":  "2840A865A71B65E155D0CF6BA5968F6326DFE6F9093854D083402F983D5165F4"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeB47COutcome.V16InitialPreflight.cs",
+                      "Bytes":  8462,
+                      "SHA256":  "410CFA1A86EC3F3034F3A93593674D741A4F61996873D2F9E1DA310025B72F0A"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeB47COutcome.V16InstalledPreflight.cs",
+                      "Bytes":  15473,
+                      "SHA256":  "DACB380B9C396E08047F02C74F8610DE098C41CB9A0171658746CC5DB7C08BA4"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeB47COutcome.V16PacketCopyPreflight.cs",
+                      "Bytes":  8102,
+                      "SHA256":  "DEFCBFDB6EE78889661F92C6A5BC4A350F37EE370CA4DCAFFAF38435F8703894"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeB47COutcome.V17Contract.cs",
+                      "Bytes":  27321,
+                      "SHA256":  "6BCC9635D8F72AE0ADF273201FE8893C6E2FC1678B9679E014996456BE5DDF66"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeB47COutcome.V17GuardRejected.cs",
+                      "Bytes":  5206,
+                      "SHA256":  "C41A861BB1105B01E733D2619533F9A7C246B0137A2BFA005C2712DAB3472123"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeB47CPageRangeContract.cs",
+                      "Bytes":  6417,
+                      "SHA256":  "5F3A80916945CAADE32E09A3C85838E91D94A9FA789BFD613F5EC103B0E222A1"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeB47CReadinessProof.cs",
+                      "Bytes":  19192,
+                      "SHA256":  "A8EB1450686AD87BB5E4BB2DCA3163C567410CBFDA9B9676B9DCD1A054AA1716"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeGuardRejectedReconciliation.cs",
+                      "Bytes":  25916,
+                      "SHA256":  "C310DEEFEB3139E18AA3C0DDEB816A0A93F67A9B3D0AA6579DC7D307BC26E0DD"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeHelperFlight.cs",
+                      "Bytes":  6776,
+                      "SHA256":  "20A5A2CFCC42A21783FD157578D82F153C8BE5B79685D4BBDF363E9B18F33542"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeHistoricalPackage.cs",
+                      "Bytes":  3562,
+                      "SHA256":  "1A6ACBB1B17CAAABC10FBF2A6DA788606F28C3505E9E2DA0E10321B618AF2301"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeLegacy79D1Package.cs",
+                      "Bytes":  3564,
+                      "SHA256":  "843CAB3113AC4FFEA9CD13A0AF2331C25E8165FBB099F9CA067A8DA3591541BC"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeOutcome.cs",
+                      "Bytes":  36741,
+                      "SHA256":  "597FC0E7079D81AC78CC79BE4A6B919B2B17C235CF0CD2C620BF92A53D830E8D"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeOutcome.OwnerChangedPreflight.cs",
+                      "Bytes":  13232,
+                      "SHA256":  "B5E529DB79D5202E901D111A1B97D55D31F180FA31A73C39E8A8AF04AA373B0D"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeOutcome.PageRange.cs",
+                      "Bytes":  9704,
+                      "SHA256":  "3FC82BAF1CF837D8DE328C1A97FAA5B5EFE27C607549E6353C9602A7B4281FD6"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeOutcome.ReadFailure.cs",
+                      "Bytes":  8800,
+                      "SHA256":  "877FBA25D70E175F33B5215BDAE4F984D128E62BBECA899708BD5CD3E22F711C"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeOutcome.V14Preflight.cs",
+                      "Bytes":  9125,
+                      "SHA256":  "CBF1507A051F31877EAEBD35DEEEBD0739581A4896C69727F345142F4B087BB6"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeOutcome.V15Contract.cs",
+                      "Bytes":  8397,
+                      "SHA256":  "7A3EDF67A69EBF2952C96ED47616EE2F532FD0141DCF0F91194A9B7D408EA21D"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeOutcome.V16InitialPreflight.cs",
+                      "Bytes":  8479,
+                      "SHA256":  "62B88A560A9B972069A4E1FA8CE18711ED37EC3404D204152BEB8C55CE8FD60A"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeOutcome.V16InstalledPreflight.cs",
+                      "Bytes":  15490,
+                      "SHA256":  "F2D884855271803157C52348BD929DF02238494AE80062FA4ED19801C696AC1E"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeOutcome.V16PacketCopyPreflight.cs",
+                      "Bytes":  8118,
+                      "SHA256":  "55F390E2F7A5205943977A25277EDC44AE78A74E03B7820E7A12200275614A12"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeOutcome.V17Contract.cs",
+                      "Bytes":  27703,
+                      "SHA256":  "46DD1FEAA3703A1811751E07237B95FB623E206135566284FE1F98E7205BDA48"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeOutcome.V17GuardRejected.cs",
+                      "Bytes":  5197,
+                      "SHA256":  "2708B24850217383E421652CFE9BF875063D10811C53FF47F2CB8294E228AAA5"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativePackage.cs",
+                      "Bytes":  3702,
+                      "SHA256":  "5465A0742BCDCF76EC01D21518B3BB8B7A7DA2EC3279BE08BD49EEAAB5A5FAD6"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativePendingPolicy.cs",
+                      "Bytes":  4898,
+                      "SHA256":  "7E2D5B7B867F41362870FB6B51125AA61332EF95C89A516B97A1E737FBDE16CD"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeReadinessProof.cs",
+                      "Bytes":  19836,
+                      "SHA256":  "189A9EEA522893D04C5087B33F26E8A3709E4CF636DBD8098679614844BD1915"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeV17Contract.cs",
+                      "Bytes":  9961,
+                      "SHA256":  "6E8623BF2FE3382C7D2963C19367A2422C1D9027E84A8A88E32D2629293F1821"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNativeV17PageRangeContract.cs",
+                      "Bytes":  6460,
+                      "SHA256":  "47389AF0C910DF776D2E69B8FAFC780CBFA304F00554DF418F4300A604FBD82A"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopNavigationBroker.cs",
+                      "Bytes":  7782,
+                      "SHA256":  "5F389567A0CF196F931E318CCCE644376B58AE94C48B23903681B19233C9B530"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopOrphanRecovery.cs",
+                      "Bytes":  13295,
+                      "SHA256":  "1162230B3483E3243C6829CAA170B8B9B3AEC52D55B8FD29E1A0D3470B5FC8DC"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopOwnerTailReplaySelfTest.cs",
+                      "Bytes":  7237,
+                      "SHA256":  "2AF62A94CDB031443A0A73E042531D4640BC84DCB959F631E6B5B2003FCCE249"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopPagePacing.cs",
+                      "Bytes":  3091,
+                      "SHA256":  "42A3568C2CB533CDFB9D98C43C98725AAE84E96DAC5DC906BAD3DE9931B440F5"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopPostCodeLocalRecovery.cs",
+                      "Bytes":  6683,
+                      "SHA256":  "9BAFA1F2CAEB8A83667E2A00D7E05CF72BE13F3D5CA3FC636B4630CA0B91FC3E"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopPostCodeRecoveryProof.cs",
+                      "Bytes":  14255,
+                      "SHA256":  "5CBB2B49AB1E49E35B40BF3F177B285F45ECA4ECED88A7AA0CC2694A38F7E7F6"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopPreparedDispatch.cs",
+                      "Bytes":  4096,
+                      "SHA256":  "8EB3952D3C14D8C8696CCE1566F5DF2D80EA98A4AF6425A06F11056ADD84E583"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopPreparedDispatch.Frozen.cs",
+                      "Bytes":  3706,
+                      "SHA256":  "5A811D8BD1AE76D5BDA35295E8E923870CFE886057C1229693786AF1069A5B97"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopRefreshFailurePolicy.cs",
+                      "Bytes":  2592,
+                      "SHA256":  "C5BBE3ADC13155DB40BEB4068392D46C5BF238B6845B05B8E9E20F138F11AFD5"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopRefreshReadRetry.cs",
+                      "Bytes":  1435,
+                      "SHA256":  "D772A3774FBA0DBFD539A405C74EF2A35911093D0C5045C8EA3B28991025E473"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopResponseBudget.cs",
+                      "Bytes":  3664,
+                      "SHA256":  "22276760DF0C6F82695C839827C095B27A3C295C031476518345C88C1B12D792"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopRuntimeContext.cs",
+                      "Bytes":  20674,
+                      "SHA256":  "9162E87D1886AE55C13C3C4CC4C6B88BABE36B3CEAD6CA1399E202DAD6FB2BAA"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopRuntimeContext.Frozen.cs",
+                      "Bytes":  1963,
+                      "SHA256":  "1BFC7F6DBDBF358F2F41D8EA00CB8F206CF45A944E10F671C77E0569A22589BC"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopRuntimeContext.SelectedDispatch.cs",
+                      "Bytes":  1424,
+                      "SHA256":  "F5E77A11559CBC24CE91387A56B1F1238B6348537D58BC478FDE26F2FCBA7DC0"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopScanControl.cs",
+                      "Bytes":  4180,
+                      "SHA256":  "F7BE1E210C7A3338B7BECCBBCE1420C5361F96D32AEC85590187C2A8C80A8B04"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopScanPageCycleTiming.cs",
+                      "Bytes":  1763,
+                      "SHA256":  "29E70C5434A796E9F727063D986814A814ADC8AFF77D230B193A268C1E17CE53"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopScanProgressStore.cs",
+                      "Bytes":  43962,
+                      "SHA256":  "3E429BEFE98E39984F41B409A02BBCBF8E078247A9D2D6C0257FB358DF4DF50F"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopScanProgressStore.GuardRejectedRecovery.cs",
+                      "Bytes":  4184,
+                      "SHA256":  "09C44C2B7B1D8E13EF7039D168B86DB0D18E1D4D799297B80FFF24D7E4DA270F"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopScanProgressStore.PostCodeRecovery.cs",
+                      "Bytes":  3799,
+                      "SHA256":  "2EB89B1180720E69A11D82D7B28528A519790AE29EC3F5E5CABDE9ECF6F01914"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopSearchedOwnerStore.cs",
+                      "Bytes":  30260,
+                      "SHA256":  "D8A48B7A20E67E89C30C37D7DF38079883DF2C21C983DFF298CF34D2C2A1FE50"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopSingleReadPagePolicy.cs",
+                      "Bytes":  2980,
+                      "SHA256":  "91C9D8530A52C61213EA1724D66F3EE115E1BE4CC1551CCC8624BC6E9132FC80"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopSourceAvailability.cs",
+                      "Bytes":  1975,
+                      "SHA256":  "0C25A5996EEF93F2AB9230733ACBC0E4C94F19555EE397C865834DFBDD140053"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopStartupRecovery.cs",
+                      "Bytes":  17703,
+                      "SHA256":  "4F15A9AED756EE8D084A987E056B0EEAF54E7CB141243EFF16ABA013AFC99837"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopStartupRecovery.ForcePreflight.cs",
+                      "Bytes":  15708,
+                      "SHA256":  "D25B836F99EC345A95730A991C49B98EC6F7E342F3D849C10635BD9B414CB03F"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopStartupTrace.cs",
+                      "Bytes":  1539,
+                      "SHA256":  "629B64F3BC4AD1CDA07023B0261B605F0CDFBA813FA3176A75543392A1F1E779"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopStartupTraceSelfTest.cs",
+                      "Bytes":  2989,
+                      "SHA256":  "32A49BBC98B89BDDBCA98832F42520089E7AB39E0B04FAA201A90639F7966944"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Broker/ShopTargetSnapshotBudget.cs",
+                      "Bytes":  2310,
+                      "SHA256":  "6E0C44AB58ABB721272C3A27D815C431567C5A49C8A64D8E90A6338799302706"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/ActorCollectionContract.cs",
+                      "Bytes":  215,
+                      "SHA256":  "B8E2011BACB575061BB0805C18136D5042211A40AE856321DD848A4A7FF626A5"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/AssemblyInfo.ContinuityTests.cs",
+                      "Bytes":  104,
+                      "SHA256":  "3942A19D002985C9B58C6528960634DFF7D886E7BE8D2DEA012AB180760403AF"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/BackgroundIntervals.cs",
+                      "Bytes":  4040,
+                      "SHA256":  "61C6D8D67A58861FAF27C953511B073AFABEEB58A3C7CBE5F1FBBC04E80896EB"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/BackgroundPersonalShopDeferral.cs",
+                      "Bytes":  2341,
+                      "SHA256":  "5892A7AEEE38363AE004B88080E3767B23EEA4A72F184991896DF84F220C2A3B"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/BufferedDiagnosticLog.cs",
+                      "Bytes":  4958,
+                      "SHA256":  "04FF99860C451250E76C375137E0CF6ED8EF934D8E46BC79B06CD283993235D7"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/Contracts.cs",
+                      "Bytes":  5653,
+                      "SHA256":  "69FBC0C4D4D5C816DC1028B2E5AA54CFD6D3B1C31F6BF5EC9A76F49529D725C1"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/HubClient.cs",
+                      "Bytes":  3663,
+                      "SHA256":  "372490227CCDFD49F55172CB3840EB09A14EFC81C268F04F8AE31B975A9D108E"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/HubRuntime.cs",
+                      "Bytes":  13913,
+                      "SHA256":  "E3026CDCAF2844D3766C044E83363FA53EDD3957BEC95F7411D25C0A17155CE0"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/HubServer.cs",
+                      "Bytes":  7371,
+                      "SHA256":  "7A9D97819C513852EFD7971B26E576176BC99C9E7185F6E937D747E10F1D2FFF"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/MemoryHub.Core.csproj",
+                      "Bytes":  974,
+                      "SHA256":  "C3659AC76541B085F8A176B482C261CECB2AA150D315078B7285E743B0CA62CF"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/PersonalShopBankRules.cs",
+                      "Bytes":  5615,
+                      "SHA256":  "6806550274DCF143B2DFF182299405E4E0AAF483DBA777C9F56B7D9185381E56"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/PersonalShopBuildCertificate.cs",
+                      "Bytes":  2467,
+                      "SHA256":  "49E969FDDB2E66E129A760CF9AB768B356032D2476F965F661C90389F28DB1ED"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/PersonalShopItemCodeContracts.cs",
+                      "Bytes":  7997,
+                      "SHA256":  "F76770A5229387BA37543FB61F3C3BE829F09030D9DF792C389586CD25D434B4"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/PersonalShopItemIdentificationRules.cs",
+                      "Bytes":  1128,
+                      "SHA256":  "9C687AFC08BC42C84536D61D56CE11B1D77BE32C5A90F438A92853108439483B"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/PersonalShopItemKindRules.cs",
+                      "Bytes":  1847,
+                      "SHA256":  "167CD49DC6049805C355ACF040E03F33875ADED1B03384B5D19F6E3DE35F308D"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/PriorityScheduling.cs",
+                      "Bytes":  17280,
+                      "SHA256":  "D25DC2C433573706202D6F0FC28B5DE793AF2A5AD5DA9937B5F084BDEA51E40D"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/ReadOperationMetrics.cs",
+                      "Bytes":  103,
+                      "SHA256":  "6CE01C20C30AE5FB332FF59359A16677424DC4203CAE25AE79F78A2DC707BD1E"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/ReadSelection.cs",
+                      "Bytes":  3963,
+                      "SHA256":  "9AEDBB9BF1EE56CAC269FD5307916C0D4B05EEAAF1116F1B95E3B2F3F4B7179F"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/Relocation.cs",
+                      "Bytes":  6509,
+                      "SHA256":  "410869BAE17A55D8CFFD10174BF4BB90314D7472D9C97BE9A3DD3BDF02ECA8CF"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/ShopCommandClient.cs",
+                      "Bytes":  2263,
+                      "SHA256":  "E035B83688EE7B92DEE85E03A4C79A19004DDA633219BA1EBB65D348205FAD88"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/ShopCommandContracts.cs",
+                      "Bytes":  10082,
+                      "SHA256":  "44CB0EE4313F21E96EAFC8FCC370E51E466AF19965F92DE266C144087EA8B68E"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/ShopContracts.cs",
+                      "Bytes":  5353,
+                      "SHA256":  "8B5699F8E0D4466C4847BD9AE95A79B52E2E1B958B3D41193BFE477A1AE21D5C"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/ShopEligibilityPolicy.cs",
+                      "Bytes":  2490,
+                      "SHA256":  "86EDE3EF23821542F3DD79761373DD64C1E26D60C80D2CA9AD1FBD98A837A282"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/ShopEmptyPageObservation.cs",
+                      "Bytes":  6820,
+                      "SHA256":  "2458B9E79D958231334EA18B83396CF11C53045D46A4EC55C9DDCA8AF9C79C18"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/ShopNativeReadiness.cs",
+                      "Bytes":  3951,
+                      "SHA256":  "78EFC8A7D2AF4F44223ACFF5791E5B70E5CE11C0B1E5C6637279937D091B1110"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/ShopNotEnteredPageRules.cs",
+                      "Bytes":  1671,
+                      "SHA256":  "888B983B55D4FAFAEFEC726C282574EF0D30F1BC98F42E966217146E677EA498"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/ShopSavedScanProgress.cs",
+                      "Bytes":  1428,
+                      "SHA256":  "2F28ECA4D8AEB578B3066ED0F544861377F352A650918D4BBEB36B33D213372E"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/ShopSearchHistoryContracts.cs",
+                      "Bytes":  1184,
+                      "SHA256":  "A7FCAA7BCFD09EF5E3B85C921AD47FD1B1962FD23295A90FE9AA861D86FE20FA"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/ShopSearchReadMode.cs",
+                      "Bytes":  4540,
+                      "SHA256":  "E8274592DFC79A59712F8DDB4289514982204CC64BA3D1E76D6040E53333422D"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/TargetLockController.cs",
+                      "Bytes":  15618,
+                      "SHA256":  "FF972B74084A1F48A5C0ED0B273CD43324AC05002F3B29C125303EA700000763"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/TrainingWire.cs",
+                      "Bytes":  3897,
+                      "SHA256":  "85CB39B6EB35AD2CA2F9488756CCAF7621BCA24C7A5C9783D85E8CCC8D45DE3A"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Core/TransientCollectionRecovery.cs",
+                      "Bytes":  1379,
+                      "SHA256":  "3ECCD84842E43E5034569628F9AF5E58EF25CE19ADFAF79069DFF73EE07307C0"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ActorCaptureCache.cs",
+                      "Bytes":  889,
+                      "SHA256":  "7CE9C5C9C69B99C87193FD827B70B3752C88B24E4166BFC8AEBF955B83113341"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ActorCollectionRetry.cs",
+                      "Bytes":  2439,
+                      "SHA256":  "079BF4F8A60B196A302BED9105ABA077B2858AA0D854353EEF70CE3FC3617351"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ActorDispatchLeafPlan.cs",
+                      "Bytes":  1360,
+                      "SHA256":  "BF9A3AC8086E8331BEEAD5891D3B0951C5809E99B6EFD975F0EE0F5E6D7A81C7"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ActorFieldsReader.cs",
+                      "Bytes":  41762,
+                      "SHA256":  "276C830A0115E40B1919FF683CDECF9108B2B8CFCA0C1C905A1A4FCA5B3C3416"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ActorFinalProofClosure.cs",
+                      "Bytes":  1070,
+                      "SHA256":  "7E9160A1264D0551497CEC639EF33C4C840B86A7814127FAEA43D138B854B4CD"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ActorMembershipFence.cs",
+                      "Bytes":  860,
+                      "SHA256":  "5FBE4275FDA2DAD35B3F6B1B5F039C4AC5BB73593EA4F8A0E55AD5007396CD18"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ActorNameDecoder.cs",
+                      "Bytes":  2206,
+                      "SHA256":  "A6D445C6862EF8BB9D6C7B6E5B2C7A28B53E4237A507E561E66A3DE90756E94A"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ActorUnorderedMembership.cs",
+                      "Bytes":  3227,
+                      "SHA256":  "A6E208908F1D9A7A4B75F3C2F30B26A6961B0324C7F4D9E8B8CED8B25EBE4538"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ActorVectorLayout.cs",
+                      "Bytes":  2459,
+                      "SHA256":  "FBF642EAE17C13CEDAF23D491CFB94186825CBC201E90FDD0DBE30815F46295E"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/AdministratorExecution.cs",
+                      "Bytes":  448,
+                      "SHA256":  "854D85E5B1D6608E109C5D72996D6F41A53E36363B4004F1111EFA28A8226506"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/AssemblyInfo.ActorRetryTests.cs",
+                      "Bytes":  104,
+                      "SHA256":  "3942A19D002985C9B58C6528960634DFF7D886E7BE8D2DEA012AB180760403AF"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/AssemblyInfo.ContractTests.cs",
+                      "Bytes":  108,
+                      "SHA256":  "9F9975B941C161F8A5D3733AC5EF89A086077642CBB235118E34758C4F10AAA7"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/AssemblyInfo.MetadataCacheTests.cs",
+                      "Bytes":  109,
+                      "SHA256":  "6BFC0B7D657AE98667B8966296FA5616ABEABCDEA925126BD6F3D6C498917539"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/AssemblyInfo.ReadConsistencyTests.cs",
+                      "Bytes":  109,
+                      "SHA256":  "980F07FFCEAAB7D95E720128526FCF68DDCA56C5BDBE90A34489E099C5D582A9"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/AssemblyInfo.RelocationTests.cs",
+                      "Bytes":  106,
+                      "SHA256":  "50CBFE20BDA458DEC6ED864A3B193014FE470EEF7208E6C9E99A61AE71242B81"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/AssemblyInfo.StabilityTests.cs",
+                      "Bytes":  100,
+                      "SHA256":  "AC5A37AB5EA3FE8DCCC2C51063E92F3F6AB80F8C3430B542DEEAC108372D8673"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/BuffFieldReader.cs",
+                      "Bytes":  10028,
+                      "SHA256":  "1CA98AC69391A2E72B3057218B2B1DBBB3308072F7FC94AB9EE05ECA9F667936"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/CharacterSourceFence.cs",
+                      "Bytes":  5945,
+                      "SHA256":  "76692B95CB3924416E36806E0D83E170A4E86534E7B2CBC49062A5CD156CF292"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ClosedShopReadCache.cs",
+                      "Bytes":  7775,
+                      "SHA256":  "D08D9F7113CDF691314924AC9023046E7E3CC162CD318218477A9C3F979387CF"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ClosedShopReadCacheSelfTest.cs",
+                      "Bytes":  12132,
+                      "SHA256":  "170524DB5C71E80CB1055F26292BBA3265DB9CD290C5DD49E22B11F932CA7612"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/CoordinateEncodingEvidence.cs",
+                      "Bytes":  3702,
+                      "SHA256":  "7D8D14CA0C402C7E6FB367F54E815737C556B798D19566F7E91EAAED63FFED0E"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/CurrentLcRelocation.cs",
+                      "Bytes":  17655,
+                      "SHA256":  "C59FA6417097597632F40F5276783FDF34CE1408802B40A114EF4E168FBE6B71"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/CurrentLcSource.ClosedShopCache.cs",
+                      "Bytes":  7186,
+                      "SHA256":  "120B6381D1C47051B7D14AE222B21692BC37E845FBF79011DA80B8BC278B5F4E"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/CurrentLcSource.cs",
+                      "Bytes":  30818,
+                      "SHA256":  "3C80420F5B72A3FFB6111CC8896527C96051DB736201FEE687DCFCF577D5E710"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/CurrentLcSource.FrozenShopDispatch.cs",
+                      "Bytes":  5786,
+                      "SHA256":  "96BF8F3C423D2621C8B8ED4D3A719924100155E9E8E60BE5F6976C43CF8304B5"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/CurrentShopFieldLayoutB47CV1.cs",
+                      "Bytes":  507,
+                      "SHA256":  "80BB1C4650878FA6D837BDF76EE2AB21BDAC666D5C79DD52782CDE51121C2871"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/HotbarFieldReader.cs",
+                      "Bytes":  14815,
+                      "SHA256":  "3276432AF76812D0E9528F566116E32D0C8A22644FA20258DC6208F41A11C19E"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/HudFieldsProbe.cs",
+                      "Bytes":  7997,
+                      "SHA256":  "22BB7861F161ECB21D09430E5631901A9F7EFF29C7DCCBE2DF2EECDD6286F81A"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/HudProbe.cs",
+                      "Bytes":  9966,
+                      "SHA256":  "89D074D570CFFEC0615CB4E6CD100BFA68BE82D54C2C91F3309D4E340F59D849"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/InventoryFieldReader.cs",
+                      "Bytes":  17802,
+                      "SHA256":  "B3E6580159E1DB05D414EBF9893C3807D9F17C538FA45909CA012992D4765EEA"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ItemStateContradictionStore.cs",
+                      "Bytes":  2752,
+                      "SHA256":  "99FB5D6CEE6F32ED6716F159EDBBC0093F26CD935608D04B05ABB26D8D02C004"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/MapCursorExtraReader.cs",
+                      "Bytes":  13741,
+                      "SHA256":  "AEDED6889E3E8CC0654DFE7F06AF1DAE2302823525BDFF73FDFDC40E9B15878C"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/MapFieldReader.cs",
+                      "Bytes":  29755,
+                      "SHA256":  "BACA214BAF5560D3607687E3D23B5535132EB5216C4AC522B82E8C79764C46A2"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/MemoryAccess.cs",
+                      "Bytes":  9047,
+                      "SHA256":  "BC5731E1B16A20D8769B36F23DA4547588058A50E1655096460F214386CA4B5A"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/MemoryHub.Reader.csproj",
+                      "Bytes":  463,
+                      "SHA256":  "9AF2129D8A818D95F64BEB1616772ACB13F19DC0B263816EB91B24534FFF86B8"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/MetadataCache.cs",
+                      "Bytes":  11692,
+                      "SHA256":  "04962E6646D71382F3CC7EA1B9B162C7D33D185FB20ABC253AE4B07086CDB237"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/NearbyActorClassification.cs",
+                      "Bytes":  1828,
+                      "SHA256":  "C2F79588728D37148D50F875CEFEBA92F7391695410E37951D98327B35ACFCBC"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/PageAccessDiagnostics.cs",
+                      "Bytes":  992,
+                      "SHA256":  "4040F5A761DC2410848B1D0594D185A59850D24B9863005C2FA54380D44DCDF3"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/PartyFieldReader.cs",
+                      "Bytes":  9567,
+                      "SHA256":  "5F19E3425B20105F242D7955E0B70FEDD3F01E7998F32C8A85AFB86F7C7704E4"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/PartyLocalProjection.cs",
+                      "Bytes":  3095,
+                      "SHA256":  "FF851B4A312B50A7BB38CAD89ECA0A78D737E4FEEE62BCA27D8DD77FD2E99A7E"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/PersonalShopBanks.cs",
+                      "Bytes":  9143,
+                      "SHA256":  "E919EE8499C487DA6CB688DB3DACCFBC07AEB088844F6078D4347132B5A327DF"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/PersonalShopBindingOnly.cs",
+                      "Bytes":  1471,
+                      "SHA256":  "91B9F429DE227A80FEA559EE56F5A7545AE5605263DC3EF523F03C142C1B4C4D"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/PersonalShopFieldReader.cs",
+                      "Bytes":  20974,
+                      "SHA256":  "519FF035F3619D6E1FC5F67B89F4DC4B6973683B73059D02A31D4E3FE9CA819F"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/PersonalShopItemKindCodeProof.cs",
+                      "Bytes":  8140,
+                      "SHA256":  "6E49F2ADBF64B1E01427722EFB044469EAA2487ACE5235803D9BF5F95A875355"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/PersonalShopItemKindCodeVerifier.cs",
+                      "Bytes":  1732,
+                      "SHA256":  "6FA5B8EA8F7CBFA468D0D54DE1CF024F3954D142CEF910FF5F4DAE2750733635"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/PersonalShopRows.cs",
+                      "Bytes":  19539,
+                      "SHA256":  "31285E5E83B23BB5F629AB016BF8F5148ED08960736E64683EBCEB989C9DBF9F"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/PersonalShopSchemaProof.cs",
+                      "Bytes":  4022,
+                      "SHA256":  "736DF5942A6EB93AD7ABA97D75044ACABB059AD04176035D564845CAB6C57B97"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/PlayerShopStatePolicy.cs",
+                      "Bytes":  480,
+                      "SHA256":  "58FCC38CFBE0A10BF3F484CC097F2C45DD44A8CC6ECB986B29D4859B592E569D"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/PointedReads.cs",
+                      "Bytes":  2996,
+                      "SHA256":  "33BD0A1C84EFC60BA1AD00A12AF81E4FC7A50345F3B6E754E1AEC449A710E5A3"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ProfileSymbols.cs",
+                      "Bytes":  3072,
+                      "SHA256":  "EB6B1296E739B0446C92A08D9245149D7BDD26060A4F4713370CADBC60B9F26C"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ReadAdmission.cs",
+                      "Bytes":  755,
+                      "SHA256":  "A679648C38CBF153B5874B8CE57BBE469E8F2C9E9A72D804E5AD40884E9FDCEF"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ReaderProfile.cs",
+                      "Bytes":  10216,
+                      "SHA256":  "C32C68AD9064FE4754E417FC31309DA0118F8BB6A2CB0DCB5D6BEB8A7B3E0096"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ReadOnlyBuffCallbackContract.cs",
+                      "Bytes":  12326,
+                      "SHA256":  "20F50872008FD63811576D8783097E153BBEC6667A7CA93B0E09CAB6EAB8A8DD"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ReadOnlyUiSubsystemContract.cs",
+                      "Bytes":  13228,
+                      "SHA256":  "5B60AB9D0A8E59CF2990CC720504B95B0189E042FFB5D26E89E5909F0FC6D694"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ReadSession.RoundMetadata.cs",
+                      "Bytes":  1661,
+                      "SHA256":  "F8FDAEC12D5F93F017698E680C335A1DE7CE8440A47375B15A751B7E851611AC"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/RelocationControlSlots.cs",
+                      "Bytes":  1658,
+                      "SHA256":  "8EB6542D59FAA016545BB6A05341F4B949B064E3F931785309F1EC61E5914E24"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/RelocationFieldPlan.cs",
+                      "Bytes":  10556,
+                      "SHA256":  "807D9DC20FA3C1959DB5A9310117A57C3088F078197F16D0B72474A90DCA28F1"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/RelocationScanner.cs",
+                      "Bytes":  42313,
+                      "SHA256":  "304ECF903AC23E6D974AE5D764836756C7770A5A7349DEF12F6FCEF202E3945E"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/RoundMetadataClosureCacheV1.cs",
+                      "Bytes":  3463,
+                      "SHA256":  "B88FF23CA67B24A4DD5C9637345289E67C1C3C3A898A4ABF1DE682A5F1AC6456"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/SelectedMembershipVerifier.cs",
+                      "Bytes":  2336,
+                      "SHA256":  "E3564EE08F8D4465D3571EB8A148304888EE586332DC895FA8593D2E8EBB8F74"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/SelectedViewportReader.cs",
+                      "Bytes":  10391,
+                      "SHA256":  "454A76ED4408EBAD9219B5314FFE9BBCF55BAF74AD41BEE38063A0F68BC694EE"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/SelfNameFieldReader.cs",
+                      "Bytes":  2405,
+                      "SHA256":  "19F3BE5B2F74A11BF5DA372E458B8D2AD39ECFC2DFFCCD6CAD98F2B78AEE1F3A"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/SelfSpatialDiscoveryRetry.cs",
+                      "Bytes":  1441,
+                      "SHA256":  "DC1B0FB6D956A6455DB16BAFD1DC9795B579172FDC7B69E2B4B8644E53FE9DB9"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/SelfSpatialFieldReader.cs",
+                      "Bytes":  3834,
+                      "SHA256":  "CBE1E01528C615DC53EAB61ED2B8CDFBF15AC4A665FDE91D239BA32A4669ADC9"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ServiceProbe.cs",
+                      "Bytes":  13965,
+                      "SHA256":  "88B3EE2AE43DCF02005EE2364E93B738AA90156731AC3A6522CEA96438F039C3"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ShopActionSourceBinding.cs",
+                      "Bytes":  10605,
+                      "SHA256":  "39124B5E5008B6B97D095A2490D822654FE89268B4A06F5F34E18ED4509BDDBF"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ShopDispatchReadRecovery.cs",
+                      "Bytes":  8162,
+                      "SHA256":  "C4DE89FE86FFE120BCE7A7FCE06C55D02333F271BEE98431675832B06E67BC15"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ShopDispatchSelfSpatialSelfTest.cs",
+                      "Bytes":  15706,
+                      "SHA256":  "B0689328FA58DBC37DE420A012AD397C4015876B56112FE7D68D85FE03CC493D"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ShopDispatchSourceValidation.cs",
+                      "Bytes":  2231,
+                      "SHA256":  "ED6956A910E3750714CC823EA4420D4F953569EE6AC3D3A5271CC0A239D8D1EF"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ShopDispatchTimeoutSelfTest.cs",
+                      "Bytes":  9799,
+                      "SHA256":  "6161EBD4FD5E573E36CABFA3D9AA13466B9DC2A639902B2CBC4E1D90252B8E63"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ShopNavigationRead.cs",
+                      "Bytes":  3418,
+                      "SHA256":  "664F9E970AC2186683316B054B8166898E7156FF4B5F1167EFDF0C3C67FFB3F7"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/SkillsStatsFieldReader.cs",
+                      "Bytes":  8345,
+                      "SHA256":  "A4F16B9ABD886935DCE063E2E5522CD21E64520271896878C613BBD41F88E1C7"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/TemplateProfileImport.cs",
+                      "Bytes":  2817,
+                      "SHA256":  "48318F0F2CAC964FF1143D0A4372FA39F8C4DF15E6917CEA5DE0819BC7D6AEDD"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/TemplateReaderProfileAdapter.cs",
+                      "Bytes":  12586,
+                      "SHA256":  "AEEB53F2EB283A77E22C3887D7DA0FE7F192233F0B0A60E818D3E7A439B54A0D"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/TemplateReaderProfileSelfTest.cs",
+                      "Bytes":  11243,
+                      "SHA256":  "B5B1629EE41A1BEF10BA32B62863AE61169AE4A04F1CA9222414D7FAFA0BA3ED"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/ViewportFieldReader.cs",
+                      "Bytes":  25020,
+                      "SHA256":  "C6B45E4000CB0C8FA8B90DC0877FDE747D1817403729499848CE90F6B3BE78CF"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/engine/Reader/TemplateSdk/LocationSdk.cs",
+                      "Bytes":  24934,
+                      "SHA256":  "83CA025B71529F213624B58B6334422C05C0EB73B45402357CEC86DB501D6E7F"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/Minimap/ExistingSnapshotAdapter.cs",
+                      "Bytes":  10571,
+                      "SHA256":  "02804BB2ED631B18938AB7345208C06B0CEDDE42C5114B4858A7D23CD857F829"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/Minimap/LocalTerrainProvider.cs",
+                      "Bytes":  3931,
+                      "SHA256":  "BC3655B5AEB2D248335FAAB561C1F46EAAEE065CD855C515FD5C8A5ACD19BA49"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/Minimap/MarketMiniMapDeliverySelfTest.cs",
+                      "Bytes":  9485,
+                      "SHA256":  "E20C60B72830C66B5EFF8D31F3ED58F1D00A4813D88EA3BC0FE435EBA27BC87F"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/Minimap/MarketMiniMapHost.cs",
+                      "Bytes":  3938,
+                      "SHA256":  "7CD8D53B8BCD0549CF477451C86371A20611C4B2F71501C9867B35EA97C2DF95"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/Minimap/MarketMiniMapIntegrationSelfTest.cs",
+                      "Bytes":  13503,
+                      "SHA256":  "95BB4172122AC1CBC89A3A076D33F955AAA02D88933BCB1582C361FEF77F369B"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/Minimap/Model.cs",
+                      "Bytes":  8079,
+                      "SHA256":  "CA26DFEDCA7FB0083E05A3890EA57457232801CFCB625FFC4093B768B9418F00"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/Minimap/Renderer.cs",
+                      "Bytes":  4673,
+                      "SHA256":  "52D966625EEF35B48A183E5EC14974F03F3E890D843E9E793590E3529FFA0887"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/Minimap/VerifiedDisplayPose.cs",
+                      "Bytes":  1078,
+                      "SHA256":  "97A171DCFCC49DAE01A621B5C584E4CB36E0CDC16FD136DF7F2A7EB75101B0A9"
+                  },
+                  {
+                      "Path":  "projects/LC.PlayerMarket.V96.API/global.json",
+                      "Bytes":  78,
+                      "SHA256":  "0F9FB5E924D2D8914276EDC92199EB68F37519C43CEC68638C82DDA600140424"
+                  }
+              ]
+}

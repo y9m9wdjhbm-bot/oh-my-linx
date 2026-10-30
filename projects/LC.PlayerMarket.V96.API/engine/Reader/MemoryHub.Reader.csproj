@@ -1,0 +1,2 @@
+<Project Sdk="Microsoft.NET.Sdk"><PropertyGroup><TargetFramework>net10.0-windows</TargetFramework><Nullable>enable</Nullable><ImplicitUsings>enable</ImplicitUsings><PlatformTarget>x64</PlatformTarget><Version>36.0.0</Version><AssemblyName>LC.PlayerMarket.Reader</AssemblyName></PropertyGroup><ItemGroup><ProjectReference Include="../Core/MemoryHub.Core.csproj" /><EmbeddedResource Include="../../research/inventory-desc-tw-79D1-v2.json" /></ItemGroup></Project>
+

@@ -1,0 +1,40 @@
+# Build outputs
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+
+# Local state and captured evidence
+**/LOG/
+**/logs/
+*.log
+**/research/
+**/profiles/
+**/verification/
+**/history/
+**/patrol-routes/
+**/settings.json
+**/list-state.json
+
+# Runtime/game assets
+**/ShopControl/
+**/Navigation/
+**/vendor/
+*.exe
+*.dll
+*.pdb
+*.u16le
+*.sqlite
+*.db
+*.dmp
+*.zip
+
+# Credentials
+.env
+.env.*
+*.pfx
+*.p12
+*.key
+*.pem
+*.dpapi
