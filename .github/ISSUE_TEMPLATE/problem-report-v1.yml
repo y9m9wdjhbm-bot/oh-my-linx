@@ -1,0 +1,41 @@
+name: 問題回報 / Problem report
+description: 提供可重現且已去除個人資料的問題說明
+title: "[問題] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        請勿附上帳密、完整 LOG、記憶體傾印、角色資料、遊戲資源或私人憑證。此倉庫目前是缺少部分依賴的原始碼快照。
+  - type: input
+    id: source-version
+    attributes:
+      label: 來源版本 / Source version
+      placeholder: V96 API 96.0.1，或明確 commit
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: 環境 / Environment
+      description: Windows、.NET SDK 版本，以及已準備哪些公開說明中的依賴。
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: 重現步驟 / Reproduction
+      description: 優先提供合成資料或最小案例。
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: 預期與實際結果 / Expected and actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: sanitized-evidence
+    attributes:
+      label: 已去識別的最小證據 / Minimal sanitized evidence
+      description: 請只貼必要片段，保留錯誤原始狀態，不要把尚未驗證改寫為成功。
+

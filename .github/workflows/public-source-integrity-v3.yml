@@ -1,0 +1,24 @@
+name: Public source snapshot integrity
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  source-integrity:
+    name: Source integrity and publication boundaries
+    runs-on: windows-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+
+      - name: Verify published source snapshot
+        shell: pwsh
+        run: ./tools/Verify-PublicSnapshot-v3.ps1
